@@ -90,4 +90,8 @@
     .output .current-operand {
       font-size: 2.5rem;
     }
+      
+      .calculator-grid > button:hover {
+      background-color: black;
+    }
   }
